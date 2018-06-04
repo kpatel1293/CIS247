@@ -1,0 +1,12 @@
+﻿Grade5.obj : error LNK2005: "public: __thiscall Grade5::Grade5(void)" (??0Grade5@@QAE@XZ) already defined in Source.obj
+Grade5.obj : error LNK2005: "public: void __thiscall Grade5::displayClass(void)" (?displayClass@Grade5@@QAEXXZ) already defined in Source.obj
+Grade5.obj : error LNK2005: "public: void __thiscall Grade5::setCount(int)" (?setCount@Grade5@@QAEXH@Z) already defined in Source.obj
+Grade5.obj : error LNK2005: "public: void __thiscall Grade5::setList(class Student * const)" (?setList@Grade5@@QAEXQAVStudent@@@Z) already defined in Source.obj
+Grade5.obj : error LNK2005: "public: void __thiscall Grade5::setTeacher(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setTeacher@Grade5@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Source.obj
+MainProgram.obj : error LNK2005: _main already defined in Source.obj
+student.obj : error LNK2005: "public: __thiscall Student::Student(void)" (??0Student@@QAE@XZ) already defined in Source.obj
+student.obj : error LNK2005: "public: void __thiscall Student::displayStuInfo(void)" (?displayStuInfo@Student@@QAEXXZ) already defined in Source.obj
+student.obj : error LNK2005: "public: void __thiscall Student::setGrade(char)" (?setGrade@Student@@QAEXD@Z) already defined in Source.obj
+student.obj : error LNK2005: "public: void __thiscall Student::setName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setName@Student@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Source.obj
+student.obj : error LNK2005: "public: void __thiscall Student::setStudentID(int)" (?setStudentID@Student@@QAEXH@Z) already defined in Source.obj
+C:\Users\kpate\Desktop\CIS247_Wk7_lab_patel\Debug\CIS247_Wk7_lab_patel.exe : fatal error LNK1169: one or more multiply defined symbols found

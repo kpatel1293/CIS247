@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kpate\desktop\cis247_wk1_homework(excercise2)_patel\source.cpp(53): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+  CIS247_WK1_Homework(Excercise2)_Patel.vcxproj -> C:\Users\kpate\Desktop\CIS247_WK1_Homework(Excercise2)_Patel\Debug\CIS247_WK1_Homework(Excercise2)_Patel.exe
+  CIS247_WK1_Homework(Excercise2)_Patel.vcxproj -> C:\Users\kpate\Desktop\CIS247_WK1_Homework(Excercise2)_Patel\Debug\CIS247_WK1_Homework(Excercise2)_Patel.pdb (Full PDB)
